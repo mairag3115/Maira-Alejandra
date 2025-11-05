@@ -7,15 +7,20 @@
 Estudiante de QA ✦ Enfocado en Automatización y Testing.
 
 -Conocimientos en pruebas manuales y automatizadas de software.
+
 -Manejo de herramientas como Jira, Postman, SQL y GitHub
+
 -Capacidad para analizar requerimientos y detectar errores o inconsistencias en el sistema.
+
 -Capacidad para aprender nuevas herramientas y adaptarse a diferentes entornos tecnológicos.
 
 <p align="center">
 
  **Idiomas**
+ 
  Español
  Nivel-basico Frances
+ 
 
 **URL y perfil público**
 www.linkedin.com/in/maira-alejandra-garcia
